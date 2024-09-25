@@ -1,0 +1,5 @@
+Employee{name='John', surname='Stones', age=25, role='Manager'}
+Employee{name='Brian', surname='Gill', age=27, role='Sales assistant'}
+Employee{name='Bill', surname='Tudor', age=23, role='Programmer'}
+Employee{name='Peter', surname='Parker', age=32, role='Designer'}
+Employee{name='Vanessa', surname='Johnson', age=22, role='Secretary'}
