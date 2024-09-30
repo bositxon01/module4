@@ -1,0 +1,21 @@
+1. (HARD) Haftada necha kun bor.
+Javoblar:
+D) 7 kun
+A) 6 kun
+B) 5 kun
+C) 4 kun
+----------------------------------------
+2. (MEDIUM) mart oyida necha kun bor
+Javoblar:
+D) 31 kun
+A) 6 kun
+B) 5 kun
+C) 30 kun
+----------------------------------------
+3. (EASY) Sutkada necha soat bor
+Javoblar:
+D) 24 soat
+A) 6 soat
+B) 5 soat
+C) 4 soat
+
